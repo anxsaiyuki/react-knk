@@ -1,0 +1,43 @@
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* BootStrap Adjustment */
+.col-fixed-240{
+    width:240px;
+    position:fixed;
+    height:100%;
+}
+
+.col-offset-255{
+    padding-left:255px;
+}
+
+/* Popup */
+.popup-title {
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+/* Search Box */
+.search-box {
+    margin-bottom: 15px;
+}
+
+.search-row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button-content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.search-btn {
+    float: right;
+}

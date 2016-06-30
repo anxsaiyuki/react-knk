@@ -1,0 +1,29 @@
+.menu-content {
+
+    background-color: #494949;
+    width: 200px;
+    float: left;
+    height: 100%;
+}
+
+.menu-list {
+    margin-top: 80px;
+    padding-left: 5px;
+}
+
+.menu-content a {
+    text-decoration: none;
+}
+
+.menu-content li {
+    list-style-type: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+
+.menu-content li:hover {
+    background-color:darkgray;
+}
